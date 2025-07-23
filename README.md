@@ -15,16 +15,16 @@ I am an enthusiastic and dedicated Computer Science Engineering student with a s
 ### 🔹 **Dynamic Query Generator**
 A tool designed to simplify and streamline complex data querying tasks.  
 📌 **Tech Stack**: Python, Flask, Data Collection & Preprocessing  and LLM's
-🧪 **Demo**: Live demo available  
+🧪 **Demo**: [Live demo available](https://dquery-gen-viewer-bypk.streamlit.app/) 
 📁 **Focus**: Query Automation & Backend Logic
 
 ---
 
 ### 🔹 **Code Language Translator**
-A tool developed to translate code from one programming language to another efficiently using Generative AI.  
+A tool developed to translate code from one programming language to anothe efficiently using Generative AI.  
 📌 **Tech Stack**: Python, Streamlit, OpenAI APIs  and LLM's
-🧪 **Demo**: Live demo available  
-📁 **Focus**: Language Conversion Automation  
+🧪 **Demo**: [Live demo available](https://language-translator-bypk.streamlit.app/) 
+📁 **Focus**: Language Conversion Automation
 
 ---
 
@@ -32,6 +32,8 @@ A tool developed to translate code from one programming language to another effi
 A smart classroom lighting automation project aimed at improving energy efficiency using IoT and AI.  
 📌 **Technologies**: Deep Learning, IoT (ESP8266, 4-Set Relay), Flask, Colab  
 📁 **Focus**: Smart Automation System
+🧪 **Demo Video**: [System View](https://youtu.be/96FSTCAmggM?si=XpwqLtSI_U4xDsU4)[User View](https://youtu.be/XFu4FQRHlKA?si=yPBDEDQHulyR79I4)
+
 
 ---
 
